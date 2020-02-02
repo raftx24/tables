@@ -1,3 +1,4 @@
+
 adf# Tables12
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/d54378598375451382b4d5d248d5a8dd)](https://www.codacy.com/app/laravel-enso/tables?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=laravel-enso/tables&amp;utm_campaign=Badge_Grade)
